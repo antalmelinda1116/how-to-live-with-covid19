@@ -1,13 +1,15 @@
-# **How to live with COVID-19 in Dublin**
+# **How to live during Pandemic in Dublin**
 
 (Mokeup image)
 
 ## **Goal for this project** 
 
-Our life has changed quite lot due to Coronavirus was spreaded all around the world. 
+Our life has changed quite a lot due to Coronavirus was spreaded all around the world. 
 Since We are having this new way of life We had to face different systems trying to provide clear information about our situation and actual restrictions.
 Sometimes the Government's pages contain too much details and it's hard to find out the exact information we need.
-On this site We collected all relevant information in a simple and clear way to make it understandable easily for You!
+On this site We summed up all relevant information in a simple and clear way to make it understandable easily for You!
+We also collected a few ideas How to keep your physical and mental health during the Pandemic.
+Our goal is to help your everyday life so do not hesitate to make your questions through our form!
 
 ---
 
