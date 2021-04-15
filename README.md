@@ -22,3 +22,17 @@ On this site We collected all relevant information in a simple and clear way to 
 * Appealing visual elements
 * Design what does not make anyone anxious as it is a tense topic 
 * Form to make any question related to the topic
+
+### **User Stories**
+
+* As a user, I want to read the essence of related data in this topic.
+* As a user, I want to be able to check easily if the information is official.
+* As a user, I want to use a simple navigation on the site.
+* As a user, I want to feel calm reading about this tense topic.
+* As a user, I want to get advices how I can keep my general health during pandemic.
+* As a user, I want to see a nice and simple design.
+* As a user, I want to have a from to make my own questions.
+* As a user, I want to see my local options for testing.
+* As a user, I want to read about how I can help to end this situation.
+* As a user, I want to read actual information.
+* As a user, I want to be able to use the site on different devices.
