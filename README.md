@@ -55,3 +55,10 @@ Our goal is to help your everyday life so do not hesitate to make your questions
 * Comprehensive information about the situation
 * Easy way to contact 
 * Easy access to official sources
+
+#### Expectations
+
+* When clicking on links, I expect the page opening in a new tab
+* I expect feedback when submitting the question form that the form has been submitted correctly
+* I expect that the navigation links work properly so that is takes me wherever I want to go
+* Clear information about actual restrictions and opportunities
