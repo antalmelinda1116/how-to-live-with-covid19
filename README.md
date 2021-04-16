@@ -43,3 +43,15 @@ Our goal is to help your everyday life so do not hesitate to make your questions
 
 * Provide useful information about actual restrictions in a handy way
 * Help to people stay heathy
+
+### **User Requirements and Expectations**
+
+#### Requirements
+
+* Easy to navigate by using the navigation menu
+* Relevant content about the actual restrictions 
+* Information provided by official sources
+* Doable advices for keeping health
+* Comprehensive information about the situation
+* Easy way to contact 
+* Easy access to official sources
