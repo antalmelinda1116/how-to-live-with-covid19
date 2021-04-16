@@ -68,3 +68,17 @@ Our goal is to help your everyday life so do not hesitate to make your questions
 Nowadays all news are about the Coronavirus. It might be exhausting for many of us to see the potential danger everywhere associated with a strong yellow color.
 In my design choices I am trying to avoid this visual anxiety and to create a harmonic ambience for the user.
 I have used [Coolors](https://coolors.co/) and [Adobe Color](https://color.adobe.com/) to come up with a harmonic color scheme.
+
+#### Fonts
+
+#### Icons
+
+#### Colors
+
+As mentioned before, I am trying to create a harmonic ambience for the user with natural but lively colors.
+
+![Color Scheme](wireframes/color-scheme.jpeg)
+
+
+
+#### Structure
