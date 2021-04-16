@@ -38,3 +38,8 @@ Our goal is to help your everyday life so do not hesitate to make your questions
 * As a user, I want to read about how I can help to end this situation.
 * As a user, I want to read actual information.
 * As a user, I want to be able to use the site on different devices.
+
+### **Site owners Goals**
+
+* Provide useful information about actual restrictions in a handy way
+* Help to people stay heathy
