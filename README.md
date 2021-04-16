@@ -62,3 +62,9 @@ Our goal is to help your everyday life so do not hesitate to make your questions
 * I expect feedback when submitting the question form that the form has been submitted correctly
 * I expect that the navigation links work properly so that is takes me wherever I want to go
 * Clear information about actual restrictions and opportunities
+
+### **Design Choices**
+
+Nowadays all news are about the Coronavirus. It might be exhausting for many of us to see the potential danger everywhere associated with a strong yellow color.
+In my design choices I am trying to avoid this visual anxiety and to create a harmonic ambience for the user.
+I have used [Coolors](https://coolors.co/) and [Adobe Color](https://color.adobe.com/) to come up with a harmonic color scheme.
