@@ -86,3 +86,20 @@ As mentioned before, I am trying to create a harmonic ambience for the user with
 * #5E7330:
 
 #### Structure
+
+--- 
+
+## **Wireframes**
+
+I have decided to use [Balsamic](https://balsamiq.com/wireframes/) to create wireframes for my website. 
+First I created a basic wireframe for desktop and later on for tablet and mobile. 
+For my website I have decided to use a 5 paged structure that provides a well organiyed output.
+The website will be easy to navigate by using the navigation bar and the fixed clickable list on the left side.
+
+You can find my wireframes below:
+
+### [Desktop Wireframe](wireframes/desktop-wireframe.pdf)
+
+### [Tablet Wireframe](wireframes/)
+
+### [Mobile Wireframe](wireframes/)
