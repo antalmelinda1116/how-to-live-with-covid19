@@ -71,6 +71,11 @@ I have used [Coolors](https://coolors.co/) and [Adobe Color](https://color.adobe
 
 #### Fonts
 
+In order to find the exact fonts for my website, I visited [Google Fonts](https://fonts.google.com/ "Google Fonts") to explore the options.
+For the overall content I have decided to use the [Spartan](https://fonts.google.com/specimen/Spartan?query=spartan#standard-styles "Google fonts: Spartan") font. In my opinion this font is easy to read and visually appealing.
+For my headings I decided to go with a different font in order to make them stand out from the main content. The font I choosed for this, is the [Julius Sans One](https://fonts.google.com/specimen/Julius+Sans+One?query=ju#standard-styles "Google Fonts: Julius Sans One") font.
+This is a bit rounded uppercase font what matches with the overall font.
+
 #### Icons
 
 #### Colors
