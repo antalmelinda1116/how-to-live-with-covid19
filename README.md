@@ -79,7 +79,7 @@ As mentioned before, I am trying to create a harmonic ambience for the user with
 
 ![Color Scheme](wireframes/color-scheme.jpeg)
 
-* #44C1F2:
+* #44C1F2: 
 * #5EA4BF:
 * #366873:
 * #234025:
