@@ -111,4 +111,4 @@ You can find my wireframes below:
 
 ### [Tablet Wireframe](wireframes/tablet-wireframe.pdf)
 
-### [Mobile Wireframe](wireframes/)
+### [Mobile Wireframe](wireframes/mobile-wireframe.pdf)
