@@ -109,6 +109,6 @@ You can find my wireframes below:
 
 ### [Desktop Wireframe](wireframes/desktop-wireframe.pdf)
 
-### [Tablet Wireframe](wireframes/)
+### [Tablet Wireframe](wireframes/tablet-wireframe.pdf)
 
 ### [Mobile Wireframe](wireframes/)
