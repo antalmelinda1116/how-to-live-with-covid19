@@ -21,6 +21,16 @@ h6 {
     text-decoration: 2.5px solid line-through;
 }
 
-.menucontainer {
-    margin: 0;
+.heading {
+    margin-left: 25px;
+}
+
+/*---------------------------------- Menu */
+
+
+
+/*---------------------------------- Footer */
+
+#footer {
+    background-color: rgba(68, 193, 242, 0.8);
 }
