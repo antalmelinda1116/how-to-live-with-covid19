@@ -53,14 +53,16 @@ h6 {
     margin-right: 0;
 }
 
+/*---------------------------------- Section */
 
-
-
+section {
+    background-color: rgba(94, 164, 191, 0.8)
+}
 
 /*---------------------------------- Footer */
 
 #footer {
-    background-color: rgba(68, 193, 242, 0.8);
+    background-color: rgba(54, 104, 115, 0.8);
 }
 
 .footer-links span,
