@@ -67,7 +67,7 @@ Our goal is to help your everyday life so do not hesitate to make your questions
 
 Nowadays all news are about the Coronavirus. It might be exhausting for many of us to see the potential danger everywhere associated with a strong yellow color.
 In my design choices I am trying to avoid this visual anxiety and to create a harmonic ambience for the user.
-I have used [Coolors](https://coolors.co/) and [Adobe Color](https://color.adobe.com/) to come up with a harmonic color scheme.
+I have used [Adobe Color](https://color.adobe.com/) to come up with a harmonic color scheme.
 
 #### Fonts
 
@@ -102,7 +102,7 @@ As Bootstrap is designed for mobile first, I will be certain that my website fun
 
 I have decided to use [Balsamic](https://balsamiq.com/wireframes/) to create wireframes for my website. 
 First I created a basic wireframe for desktop and later on for tablet and mobile. 
-For my website I have decided to use a 5 paged structure that provides a well organiyed output.
+For my website I have decided to use a 4 paged structure that provides a well organiyed output.
 The website will be easy to navigate by using the navigation bar and the fixed clickable list on the left side.
 
 You can find my wireframes below:
