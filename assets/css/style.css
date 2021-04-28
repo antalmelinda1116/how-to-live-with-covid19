@@ -62,30 +62,17 @@ h6 {
 /*---------------------------------- Section */
 
 .section-content {
-    background-color: rgba(94, 164, 191, 0.3)
-}
-
-.section-nav {
-    list-style-type: none;
-    font-family: "Spartan", sans-serif;
-    padding: 0;
-    margin-top: 15px;
-}
-
-.section-nav li a {
-    text-decoration: none;
-    color: #000000;
-}
-
-.section-item {
+    background-color: rgba(94, 164, 191, 0.3);
     text-align: center;
     font-family: "Spartan", sans-serif;
 }
 
-.section-item h4,
-.section-item p {
+.section-content p,
+.section-content h4 {
     padding-top: 15px;
 }
+
+
 
 /*---------------------------------- Footer */
 
