@@ -78,6 +78,8 @@ This is a bit rounded uppercase font what matches with the overall font.
 
 #### Icons
 
+I have decided to implement icons, using the [Font Awesome library](https://fontawesome.com/ "Font Awesome"). I will make sure that the icons are styled according to the website. I will use some icons to make the website more visually appealing but not to overtake the content.
+
 #### Colors
 
 As mentioned before, I am trying to create a harmonic ambience for the user with natural but lively colors.
@@ -102,8 +104,8 @@ As Bootstrap is designed for mobile first, I will be certain that my website fun
 
 I have decided to use [Balsamic](https://balsamiq.com/wireframes/) to create wireframes for my website. 
 First I created a basic wireframe for desktop and later on for tablet and mobile. 
-For my website I have decided to use a 4 paged structure that provides a well organiyed output.
-The website will be easy to navigate by using the navigation bar and the fixed clickable list on the left side.
+For my website I have decided to use a 1 page structure that suits better for any devices.
+The website will be easy to navigate by using the navigation bar.
 
 You can find my wireframes below:
 
@@ -112,3 +114,61 @@ You can find my wireframes below:
 ### [Tablet Wireframe](wireframes/tablet-wireframe.pdf)
 
 ### [Mobile Wireframe](wireframes/mobile-wireframe.pdf)
+
+## **Features**
+
+### **Existing Features**
+
+### **Features to be implemented**
+
+## **Technologies used**
+
+### **Languages**
+
+* [HTML](https://en.wikipedia.org/wiki/HTML)
+* [CSS](https://en.wikipedia.org/wiki/Cascading_Style_Sheets)
+
+### **Libraries & Frameworks**
+
+* [Font Awesome](https://fontawesome.com/)
+* [Bootstrap](https://getbootstrap.com/)
+* [Google Fonts](https://fonts.google.com/)
+
+### **Tools**
+* [Git](https://git-scm.com/)
+* [GitPod](https://www.gitpod.io/)
+* [Balsamic](https://balsamiq.com/wireframes/)
+* [W3C HTML Validation Service](https://validator.w3.org/)
+* [W3C CSS Validation Service](https://jigsaw.w3.org/css-validator/)
+* [Tiny PNG](https://tinypng.com/)
+
+## **Testing**
+
+## **Deployment**
+
+This project was deployed via GitHub by executing the following steps.
+After writing the code, committing and pushing it to GitHub:
+
+1. Navigate to the repository on github and click **Settings**.
+1. From there, go to the **Source section** within the Github Pages menu.
+1. Select **master branch** on the dropdown menu, and click save.
+1. Now the website is live on **https://antalmelinda1116.github.io/how-to-live-with-covid19/**
+1. Any time commits and pushes are sent to Github, the Github Pages site should update shortly after.
+
+To run the project locally:
+
+1. Click the **green Clone or Download button** on the Github Repository
+1. Using the **Clone with HTTPS option**, copy the link displayed.
+1. Open your IDE, and ensure the Git Terminal is open.
+1. Change the working directory to the location where the cloned directory is to go.
+1. Use the **"git clone" command** and paste the url copied in the second step.
+
+## **Credits**
+
+### Content - Media - Inspiration
+
+I have used the following websites to gather ideas and information for the overall content of my website: 
+
+*
+*
+
