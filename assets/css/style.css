@@ -78,8 +78,13 @@ h6 {
 }
 
 .section-item {
-    margin: 15px;
+    text-align: center;
+    font-family: "Spartan", sans-serif;
+}
 
+.section-item h4,
+.section-item p {
+    padding-top: 15px;
 }
 
 /*---------------------------------- Footer */
