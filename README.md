@@ -169,6 +169,6 @@ To run the project locally:
 
 I have used the following websites to gather ideas and information for the overall content of my website: 
 
-*
+* [Design your way] (https://www.designyourway.net/blog/)
 *
 
