@@ -14,6 +14,10 @@ h6 {
     text-transform: uppercase;
 }
 
+.icon {
+    margin-top: 15px;
+}
+
 /*---------------------------------- Heading */
 
 .container-heading {
@@ -49,7 +53,7 @@ h6 {
 
 .menu-list li a {
     text-align: center;
-    color: #ffffff;
+    color: #000000;
 
 }
 
