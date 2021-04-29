@@ -1,6 +1,6 @@
 @import url(https://fonts.googleapis.com/css2?family=Spartan:wght@100..900&family=Julius+Sans+One);
 
-/* Special padding/margins/text */
+/* General */
 
 html {
     font-size: 62.5%;
@@ -9,6 +9,8 @@ html {
 body {
     font-family: 'Spartan', sans-serif;
     font-size: 1.6rem;
+    line-height: 3rem;
+    color: #ffffff;
 }
 
 h1,
@@ -17,7 +19,7 @@ h3,
 h4,
 h5,
 h6 {
-    margin: 1.5rem;
+    margin: 2rem;
     font-family: "Julius Sans One", sans-serif;
 }
 
@@ -33,11 +35,18 @@ section {
     text-transform: uppercase;
 }
 
-.icon {
-    margin-top: 15px;
+i {
+    font-size: 3rem;
+    margin: 1rem 0;
 }
 
-/*Heading */
+
+ul,
+p {
+    padding-top: 1.5rem;
+}
+
+/* Heading */
 
 .container-heading {
     font-family: "Julius Sans One", sans-serif;
@@ -83,16 +92,9 @@ section {
 /* Section */
 
 .section-content {
-    background-color: rgba(0, 0, 0, 0.4);
+    background-color: rgba(0, 0, 0, 0.65);
     text-align: center;
-    font-family: "Spartan", sans-serif;
-    color: #ffffff;
-}
 
-.section-content p,
-.section-content ul,
-.section-content h4 {
-    padding-top: 15px;
 }
 
 
@@ -109,6 +111,6 @@ section {
 .footer-links a {
     font-family: "Julius Sans One", sans-serif;
     float: right;
+    margin-left: 1rem;
     color: #ffffff;
-    margin-left: 10px;
 }
