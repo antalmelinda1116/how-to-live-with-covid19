@@ -1,4 +1,6 @@
-/*---------------------------------- Special padding/margins/text */
+@import url(https://fonts.googleapis.com/css2?family=Spartan:wght@100..900&family=Julius+Sans+One);
+
+/* Special padding/margins/text */
 
 h1,
 h2,
@@ -18,7 +20,7 @@ h6 {
     margin-top: 15px;
 }
 
-/*---------------------------------- Heading */
+/*Heading */
 
 .container-heading {
     font-family: "Julius Sans One", sans-serif;
@@ -33,7 +35,7 @@ h6 {
 }
 
 
-/*---------------------------------- Menu */
+/* Menu */
 
 #nav {
     margin: 0;
@@ -61,7 +63,7 @@ h6 {
     margin-right: 0;
 }
 
-/*---------------------------------- Section */
+/* Section */
 
 .section-content {
     background-color: rgba(0, 0, 0, 0.4);
@@ -86,7 +88,7 @@ h6 {
 
 
 
-/*---------------------------------- Footer */
+/* Footer */
 
 #footer {
     background-color: rgba(54, 104, 115, 0.8);
