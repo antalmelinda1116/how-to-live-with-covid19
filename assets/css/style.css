@@ -13,7 +13,6 @@ body {
     color: #ffffff;
 }
 
-h1,
 h2,
 h3,
 h4,
@@ -46,11 +45,13 @@ p {
     padding-top: 1.5rem;
 }
 
-/* Heading */
-
-.container-heading {
+header {
     font-family: "Julius Sans One", sans-serif;
+    color: #000000;
+    line-height: normal;
 }
+
+/* Heading */
 
 .line-through {
     text-decoration: 2.5px solid line-through;
@@ -68,7 +69,7 @@ p {
 }
 
 #nav li {
-    font-size: 20px;
+    font-size: 2rem;
     list-style-type: none;
     margin: 0;
     padding: 0;
@@ -94,7 +95,10 @@ p {
 .section-content {
     background-color: rgba(0, 0, 0, 0.65);
     text-align: center;
+}
 
+#guidance span {
+    padding: 0 3rem;
 }
 
 
