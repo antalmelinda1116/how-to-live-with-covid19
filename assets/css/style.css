@@ -60,7 +60,7 @@ h6 {
 /*---------------------------------- Section */
 
 .section-content {
-    background-color: rgba(255, 255, 255, 0.1);
+    background-color: rgba(0, 0, 0, 0.35);
     text-align: center;
     font-family: "Spartan", sans-serif;
     color: #ffffff;
@@ -72,7 +72,7 @@ h6 {
 }
 
 #content {
-    background: radial-gradient(circle, #000000, #1a1619, #29252e, #323745, #354b5c, #385b6e, #386c80, #387e90, #398fa7, #3b9fbf, #3fb0d8, #44c1f2) no-repeat center center fixed;
+    background: url(../images/bg-pic.jpeg) fixed;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
