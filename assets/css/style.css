@@ -30,64 +30,44 @@ section {
     background-size: cover;
 }
 
-.uppercase {
-    text-transform: uppercase;
-}
-
 i {
     font-size: 3rem;
     margin: 1rem 0;
 }
 
-
-ul,
-p {
+p,
+body ul {
     padding-top: 1.5rem;
 }
 
 header {
+    position: sticky;
     font-family: "Julius Sans One", sans-serif;
-    color: #ffffff;
     line-height: normal;
 }
-
-/* Heading */
 
 .line-through {
     text-decoration: 2.5px solid line-through;
 }
 
-#guidance span {
+
+/* Navbar */
+
+.navbar {
+    text-align: left;
+    position: fixed;
+    overflow: hidden;
+    top: 0;
+    width: 100%;
+    z-index: 999999;
     padding: 0;
-}
-
-
-/* Menu */
-
-#nav {
     margin: 0;
+    background-color: #ffffff;
 }
 
-#nav li {
-    font-size: 2rem;
-    list-style-type: none;
-    margin: 0;
-    padding: 0;
-    text-align: center;
-}
-
-.menu-list {
-    font-size: 0;
-}
-
-.menu-list li a {
-    text-align: center;
-    color: #000000;
-
-}
-
-.list-inline-item:not(:last-child) {
-    margin-right: 0;
+#navbarNav {
+    float: inline-end;
+    text-align: left;
 }
 
 /* Section */
