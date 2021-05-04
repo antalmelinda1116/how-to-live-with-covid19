@@ -57,14 +57,15 @@ header {
     line-height: normal;
 }
 
+form {
+    margin-top: 5rem;
+}
+
 .line-through {
     text-decoration: 2.5px solid line-through;
 }
 
-.table-dark {
-    --bs-table-bg: rgba(0, 0, 0, 0);
-    font-family: "Julius Sans One", sans-serif;
-}
+
 
 /* Navbar */
 
@@ -99,11 +100,22 @@ header {
 #yinyang {
     border-radius: 50%;
     width: 70%;
-
-
 }
 
+.form-control {
+    font-size: 1.3rem;
+    background-color: rgba(0, 0, 0, 0);
+    color: white;
+}
 
+.table-dark {
+    --bs-table-bg: rgba(0, 0, 0, 0);
+    font-family: "Julius Sans One", sans-serif;
+}
+
+.btn {
+    margin: 2rem 0;
+}
 
 /* Footer */
 
