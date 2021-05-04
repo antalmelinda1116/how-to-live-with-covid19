@@ -75,6 +75,10 @@ header {
     text-align: left;
 }
 
+.bg-dark {
+    background-color: #1e0a31 !important;
+}
+
 /* Section */
 
 .section-content {
@@ -94,7 +98,7 @@ header {
 /* Footer */
 
 #footer {
-    background-color: rgba(54, 104, 115, 0.8);
+    background-color: rgba(1, 39, 62, 1);
 }
 
 .footer-links span,
