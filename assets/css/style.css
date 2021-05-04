@@ -36,6 +36,16 @@ i {
     margin: 1rem 0;
 }
 
+a {
+    color: #00b2ff;
+    text-decoration: none;
+}
+
+a:hover {
+    color: #00b2ff;
+    text-decoration: underline;
+}
+
 p,
 body ul {
     padding-top: 1.5rem;
