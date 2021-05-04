@@ -85,9 +85,9 @@ form {
     background-color: #ffffff;
 }
 
-#navbarNav {
-    float: inline-end;
-    text-align: left;
+.navbar-collapse {
+    flex-grow: 0;
+    align-items: center;
 }
 
 .bg-dark {
