@@ -66,7 +66,7 @@ form {
 }
 
 .line-through {
-    text-decoration: 2.5px solid line-through;
+    text-decoration: 2px solid line-through;
 }
 
 
@@ -114,12 +114,6 @@ form {
     width: 70%;
 }
 
-.form-control {
-    font-size: 1.3rem;
-    background-color: rgba(0, 0, 0, 0);
-    color: white;
-}
-
 .prevention-ideas {
     font-family: "Julius Sans One", sans-serif;
 }
@@ -129,20 +123,30 @@ form {
     margin: 5rem 0;
 }
 
+.form-control {
+    font-size: 1.3rem;
+    background-color: rgba(0, 0, 0, 0);
+    color: white;
+}
+
 .btn {
     margin: 2rem 0;
 }
 
 /* Footer */
 
-#footer {
+footer {
     background-color: rgba(1, 39, 62, 1);
 }
 
-.footer-links span,
-.footer-links a {
+footer span,
+footer a {
     font-family: "Julius Sans One", sans-serif;
     float: right;
     margin-left: 1rem;
     color: #ffffff;
+}
+
+footer a:hover {
+    color: #fff;
 }
