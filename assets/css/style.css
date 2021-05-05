@@ -94,6 +94,10 @@ form {
     background-color: #1e0a31 !important;
 }
 
+#main-heading h1 {
+    font-size: clamp(100%, 1rem + 1.15vw, 2rem);
+}
+
 /* Section */
 
 .section-content {
