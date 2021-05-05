@@ -114,6 +114,12 @@ form {
     width: 70%;
 }
 
+.center {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
 .prevention-ideas {
     font-family: "Julius Sans One", sans-serif;
 }
@@ -131,6 +137,12 @@ form {
 
 .btn {
     margin: 2rem 0;
+}
+
+.form-control:focus {
+    border: 2px solid #00b2ff;
+    background-color: rgba(0, 0, 0, 0);
+    color: white;
 }
 
 /* Footer */
