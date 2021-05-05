@@ -7,9 +7,10 @@
 Our life has changed quite a lot due to Coronavirus was spreaded all around the world. 
 Since We are having this new way of life We had to face different systems trying to provide clear information about our situation and actual restrictions.
 Sometimes the Government's pages contain too much details and it's hard to find out the exact information we need.
-On this site We summed up all relevant information in a simple and clear way to make it understandable easily for You!
-We also collected a few ideas How to keep your physical and mental health during the Pandemic.
-Our goal is to help your everyday life so do not hesitate to make your questions through our form!
+
+On this site I summed up all relevant information in a simple and clear way to make it understandable easily for You!
+I also collected a few ideas How to keep your physical and mental health during the Pandemic.
+My goal is to help your everyday life so do not hesitate to make your questions through our form!
 
 ---
 
@@ -59,7 +60,6 @@ Our goal is to help your everyday life so do not hesitate to make your questions
 #### Expectations
 
 * When clicking on links, I expect the page opening in a new tab
-* I expect feedback when submitting the question form that the form has been submitted correctly
 * I expect that the navigation links work properly so that is takes me wherever I want to go
 * Clear information about actual restrictions and opportunities
 
@@ -86,12 +86,6 @@ As mentioned before, I am trying to create a harmonic ambience for the user with
 
 ![Color Scheme](wireframes/color-scheme.jpeg)
 
-* #44C1F2: 
-* #5EA4BF:
-* #366873:
-* #234025:
-* #5E7330:
-
 #### Structure
 
 I have chosen to use [Bootstrap](https://getbootstrap.com/) to create an overall structure for my website. 
@@ -104,7 +98,7 @@ As Bootstrap is designed for mobile first, I will be certain that my website fun
 
 I have decided to use [Balsamic](https://balsamiq.com/wireframes/) to create wireframes for my website. 
 First I created a basic wireframe for desktop and later on for tablet and mobile. 
-For my website I have decided to use a 1 page structure that suits better for any devices.
+For my website I have decided to use a 4 pages structure that separate better the information.
 The website will be easy to navigate by using the navigation bar.
 
 You can find my wireframes below:
@@ -114,6 +108,13 @@ You can find my wireframes below:
 ### [Tablet Wireframe](wireframes/tablet-wireframe.pdf)
 
 ### [Mobile Wireframe](wireframes/mobile-wireframe.pdf)
+
+## **Design and Structure changes**
+
+I've decided to make several changes I mentioned above. I decided to use a 1 scrolling page structure for my mentor's advice as it fits better for my ideas and for the actual web design trends.
+
+I also evolved my design choices. The reason was that I saw the background image in an online background image library and I got a new idea to build my website as a galaxy guidance.
+I think the background image suits for the topic as it seems a huge virus attacking the Earth. I tried not using too many colors for keep the contant easily readable and all 3 colors I used were picked from the background picture using DevTools. 
 
 ## **Features**
 
