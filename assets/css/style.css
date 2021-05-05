@@ -11,6 +11,7 @@ body {
     font-size: 1.6rem;
     line-height: 3rem;
     color: #ffffff;
+    padding: 2rem 0;
 }
 
 h2,
@@ -103,14 +104,6 @@ form {
 .section-content {
     background-color: rgba(0, 0, 0, 0.7);
     text-align: center;
-}
-
-#heading-icon-left {
-    margin-right: 3rem;
-}
-
-#heading-icon-right {
-    margin-left: 3rem;
 }
 
 #yinyang {
