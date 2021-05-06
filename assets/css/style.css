@@ -46,7 +46,6 @@ a {
 a:hover {
     color: #00b2ff;
     text-decoration: underline;
-    text-decoration-thickness: 1px;
 }
 
 p,
