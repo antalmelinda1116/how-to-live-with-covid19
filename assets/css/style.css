@@ -68,7 +68,7 @@ form {
 }
 
 .line-through {
-    text-decoration: 2px solid line-through;
+    text-decoration: 2px solid line-through #ffffff;
 }
 
 
