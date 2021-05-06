@@ -46,6 +46,7 @@ a {
 a:hover {
     color: #00b2ff;
     text-decoration: underline;
+    text-decoration-thickness: 1px;
 }
 
 p,
@@ -68,7 +69,7 @@ form {
 }
 
 .line-through {
-    text-decoration: 2px solid line-through #ffffff;
+    text-decoration: line-through #ffffff;
 }
 
 
