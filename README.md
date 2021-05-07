@@ -305,17 +305,17 @@ The test has passed all the criteria and works like planned.
 ### Contact form
 
 * **Plan**    
-
+I wanted to create a form for users to be able to send their questions related to the topic or telling what part they don't understand and it would need more details, improvement etc.
+I wanted this form to be useable in a simple way for everyone asking only for the necessarry information to keep in touch.
 
 * **Implementation**   
-I used Bootstrap to implement the
+I used Bootstrap to provide the contact form to make it responsive. I changed the default styling in CSS to make it suit for the overall design.
 
 * **Test**    
-
+I tried it many times for mobile, tablet and desktop screen sizes checking the highlighted borders when it focused on, the notification for the required information and the submit button working.
 
 * **Result**    
-The navigation bar shows nicely like expected on all browsers and devices. 
-All the links work fine taking the user to the right section. 
+The form works well with all the features planned. 
 
 * **Verdict**    
 The test has passed all the criteria and works like planned.
