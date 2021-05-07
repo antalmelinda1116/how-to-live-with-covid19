@@ -184,15 +184,49 @@ I think the background image suits for the topic as it seems a huge virus attack
 <a></a>
 ## **Features**
 
-[Back to Top](#table-of-contents)
-
 <a></a>
 ### **Existing Features**
+
+#### Navigation
+
+For the menu I have used Bootstrap to create a responsive navigation bar.
+My goal was keeping it simple with using only a few menu options.
+When hovering on the menu items its underline to make it visually appealing. 
+
+#### Background
+
+I decided to use one amazing background instead of implementing many smaller pictures.
+I find this background picture shows our situation perfectly as the planet is facing with Pandemic.
+It doesn't cause anxiety or include a color scheme used for calling people's attention for the danger.
+
+#### Website content
+
+For the content I've used Bootstrap grid to make a responsive structure for any devices.
+I created a narrower column for the content and gave it a sarker layer to make it readable while the user can enjoy the background.
+On mobile and tablet the content fill up the whole screen having the darker layout behind because there is no space enough to show parts only about the background.
+
+For tablets and bigger screens I've used a very similar structure of content. I grouped the general information into 5 parts in 2 rows. 3 parts in the first row and 2 parts in the second row.
+Using the same layout structure with icons for these 5 items shows well the grouping. On mobile device all of them shows up one after another.
+
+The restrictions part I devided into 2 parts. The general restrictions for people who are living or staying in Ireland and rules for people travelling into Irelaand.
+I choosed to put them one below the other to give some breathe to the content.
+
+For the prevention I have decided to use bigger icons to demonstrate the prevention actions better and to make the content diverse. These icons are placed beside each other for tablet and bigger screens but on mobile it shows up as a 2x2 square grid.
+
+The physical and mental health are two important question in this topic and it has to be practised together in a balanced way to achieve success so I put balance symbol between them and placed it the middle for tablet and bigger screens.
+On mobile it shows up as a divider image. I provided the help lines information below them to end this section and make this information visible enough.
+
+I decided to implement a Bootstrap form in the end to provide an option to make any questions about the topic and sending it. For mobile devices and tablets it is in the very end of the webpage but on larger screens its sharing the row with the vaccination information as both don't need that much space.
+
+Generally I was about to write a simple and clear code with not using complicated solutions for simple things. I tried to resolve most of the issues with Bootstrap classes and using CSS only for making the components visually fitting to my idea and making my website unique.
 
 [Back to Top](#table-of-contents)
 
 <a></a>
 ### **Features to be implemented**
+
+* A Google Maps iframe to showing the testing centers in Dublin.
+* When the form is submitted, the message should be send to the email account of the website owner.
 
 [Back to Top](#table-of-contents)
 
