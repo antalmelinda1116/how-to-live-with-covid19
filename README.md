@@ -35,7 +35,7 @@ My goal is to help your everyday life so do not hesitate to make your questions 
     * [Features to be implemented](#features-to-be-implemented)
 * [Technologies used](#technologies-used)
     * [Languages](#languages)
-    * [Libraries & Frameworks](#libraries-&-frameworks)
+    * [Libraries & Frameworks](#libraries-and-frameworks)
     * [Tools](#tools)
 * [Testing](#testing)
 * [Deployment](#deployment)
@@ -206,7 +206,7 @@ I think the background image suits for the topic as it seems a huge virus attack
 [Back to Top](#table-of-contents)
 
 <a></a>
-### **Libraries & Frameworks**
+### **Libraries and Frameworks**
 
 * [Font Awesome](https://fontawesome.com/)
 * [Bootstrap](https://getbootstrap.com/)
