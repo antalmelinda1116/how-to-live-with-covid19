@@ -35,11 +35,12 @@ My goal is to help your everyday life so do not hesitate to make your questions 
     * [Features to be implemented](#features-to-be-implemented)
 * [Technologies used](#technologies-used)
     * [Languages](#languages)
-    * [Libraries & Frameworks](#libraries-and-frameworks)
+    * [Libraries and Frameworks](#libraries-and-frameworks)
     * [Tools](#tools)
 * [Testing](#testing)
 * [Deployment](#deployment)
 * [Credits](#credits)
+* [Acknowledgements](#acknowledgements)
 
 
 <a name="ux"></a>
@@ -264,3 +265,8 @@ I have used the following websites to gather ideas and information for the overa
 
 [Back to Top](#table-of-contents)
 
+### Acknowledgements
+
+I would also like to thank Anouk Smet (AnoukSmet) for the great template for my first Readme file. It was a great help for understanding how does it work in practise. 
+
+[Back to Top](#table-of-contents)
