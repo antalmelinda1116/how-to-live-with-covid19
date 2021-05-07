@@ -263,6 +263,28 @@ Generally I was about to write a simple and clear code with not using complicate
 <a></a>
 ## **Testing**
 
+### Navigation bar
+
+* **Plan**    
+I want to include a navigation bar which will be fixed on top, including the title on the left side and the menu options on the right.
+Whenever clicked on one of the navigation links, it should take the user to the appropriate part of the page.
+To be more handy for mobile and for tablet the menu options groups together into a droppdown menu.
+
+* **Implementation**   
+I used Bootstrap to implement the navigation bar. This helps to give an overall structure and lay out to the navbar. 
+I have used CSS to overwrite the default settings and to make the navbar suitable for the webpage's design. 
+
+* **Test**    
+To test the navigation bar, I have click all the links to make sure it works properly and checked if the dropdown menu is working on mobile and tablet devices.
+I also tried if it is working in different browsers.
+
+* **Result**    
+The navigation bar shows nicely like expected on all browsers and devices. 
+All the links work fine taking the user to the right section. 
+
+* **Verdict**    
+The test has passed all the criteria and works like planned.
+
 [Back to Top](#table-of-contents)
 
 <a></a>
@@ -301,6 +323,6 @@ I have used the following websites to gather ideas and information for the overa
 
 ### Acknowledgements
 
-I would also like to thank Anouk Smet (AnoukSmet) for the great template for my first Readme file. It was a great help for understanding how does it work in practise. 
+I would like to thank Anouk Smet (AnoukSmet) for the great template for my first Readme file. It was a great help for understanding how does it work in practise. 
 
 [Back to Top](#table-of-contents)
