@@ -285,6 +285,41 @@ All the links work fine taking the user to the right section.
 * **Verdict**    
 The test has passed all the criteria and works like planned.
 
+### External links
+
+* **Plan**    
+I wanted to provide all the official information through external links for the users to proove they are reading a trustworthy website and help them finding the exact parts between the many links and documents available on governemnt's pages.
+
+* **Implementation**   
+I used conspicuous links to provide the exact information all opening up in a new tab when clicking on.
+
+* **Test**    
+I tried all the links twice.
+
+* **Result**    
+Links look great, suit to the overall style and works well showing to the right pages or information.
+
+* **Verdict**    
+The test has passed all the criteria and works like planned.
+
+### Contact form
+
+* **Plan**    
+
+
+* **Implementation**   
+I used Bootstrap to implement the
+
+* **Test**    
+
+
+* **Result**    
+The navigation bar shows nicely like expected on all browsers and devices. 
+All the links work fine taking the user to the right section. 
+
+* **Verdict**    
+The test has passed all the criteria and works like planned.
+
 [Back to Top](#table-of-contents)
 
 <a></a>
