@@ -97,7 +97,7 @@ form {
 }
 
 #main-heading h1 {
-    font-size: clamp(100%, 1rem + 1.15vw, 2rem);
+    font-size: clamp(100%, 0.85rem + 1.15vw, 2rem);
 }
 
 /* Section */
