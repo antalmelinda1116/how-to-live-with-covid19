@@ -322,6 +322,33 @@ The test has passed all the criteria and works like planned.
 
 [Back to Top](#table-of-contents)
 
+### Bugs
+
+#### Navbar dropdown menu
+
+* **Bug**    
+When I created the navigation bar the dropdown menu wasn't working well, I couldn't place the menu items on the right side or fix it to the top.
+
+* **Fix**        
+For the dropdown menu I added the Bootstrap Javascript link to the end of the body because I forgot to do it.
+The CSS styling issue was caused of trying to overwrite not to appropriate Bootstrap class. Using Google DevTools helped me to find the correct class to overwrite.
+
+* **Verdict**    
+Bug was resolved and form now works as planned. 
+
+#### Form background when focused on
+
+* **Bug**    
+When clicking on and typing in any input of the form the background changed back to the default white one with black font color.
+
+* **Fix**        
+It took me a while to figure out that I was using the wrong pseudo class for this action. Correcting it to :focus resolved my issue.
+
+* **Verdict**    
+Bug was resolved and form now works as planned. 
+
+
+
 <a></a>
 ## **Deployment**
 
