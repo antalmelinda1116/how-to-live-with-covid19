@@ -1,7 +1,5 @@
 # **How to live during Pandemic in Dublin**
 
-(Mokeup image)
-
 ## **Goal for this project** 
 
 Our life has changed quite a lot due to Coronavirus was spreaded all around the world. 
@@ -174,10 +172,10 @@ You can find my wireframes below:
 <a></a>
 ### **Design and Structure changes**
 
-I've decided to make several changes I mentioned above. I decided to use a 1 scrolling page structure for my mentor's advice as it fits better for my ideas and for the actual web design trends.
+I've decided to make several changes to the version I mentioned above. I decided to use a 1 scrolling page structure for my mentor's advice as it fits better for my ideas and for the actual web design trends.
 
 I also evolved my design choices. The reason was that I saw the background image in an online background image library and I got a new idea to build my website as a galaxy guidance.
-I think the background image suits for the topic as it seems a huge virus attacking the Earth. I tried not using too many colors for keep the contant easily readable and all 3 colors I used were picked from the background picture using DevTools. 
+I think the background image suits for the topic as it seems a huge virus attacking the Earth. I tried not using too many colors for keep the content easily readable and all 3 colors I used were picked from the background picture using DevTools. 
 
 [Back to Top](#table-of-contents)
 
@@ -196,24 +194,24 @@ When hovering on the menu items its underline to make it visually appealing.
 #### Background
 
 I decided to use one amazing background instead of implementing many smaller pictures.
-I find this background picture shows our situation perfectly as the planet is facing with Pandemic.
-It doesn't cause anxiety or include a color scheme used for calling people's attention for the danger.
+I find this background picture showing our situation perfectly as the planet is facing with Pandemic.
+It doesn't cause anxiety or include any color scheme used for calling people's attention for the danger.
 
 #### Website content
 
 For the content I've used Bootstrap grid to make a responsive structure for any devices.
-I created a narrower column for the content and gave it a sarker layer to make it readable while the user can enjoy the background.
+I created a narrower column for the content and gave it a darker layer to make it readable while the user can enjoy the background.
 On mobile and tablet the content fill up the whole screen having the darker layout behind because there is no space enough to show parts only about the background.
 
 For tablets and bigger screens I've used a very similar structure of content. I grouped the general information into 5 parts in 2 rows. 3 parts in the first row and 2 parts in the second row.
 Using the same layout structure with icons for these 5 items shows well the grouping. On mobile device all of them shows up one after another.
 
-The restrictions part I devided into 2 parts. The general restrictions for people who are living or staying in Ireland and rules for people travelling into Irelaand.
+The restrictions part I devided into 2 parts. The general restrictions for people who are living or staying in Ireland for long term and rules for people travelling into Irelaand.
 I choosed to put them one below the other to give some breathe to the content.
 
 For the prevention I have decided to use bigger icons to demonstrate the prevention actions better and to make the content diverse. These icons are placed beside each other for tablet and bigger screens but on mobile it shows up as a 2x2 square grid.
 
-The physical and mental health are two important question in this topic and it has to be practised together in a balanced way to achieve success so I put balance symbol between them and placed it the middle for tablet and bigger screens.
+The physical and mental health are two important question in this topic and it has to be practised together in a balanced way to achieve success so I put a balance symbol between them and placed it the middle for tablet and bigger screens.
 On mobile it shows up as a divider image. I provided the help lines information below them to end this section and make this information visible enough.
 
 I decided to implement a Bootstrap form in the end to provide an option to make any questions about the topic and sending it. For mobile devices and tablets it is in the very end of the webpage but on larger screens its sharing the row with the vaccination information as both don't need that much space.
@@ -238,16 +236,12 @@ Generally I was about to write a simple and clear code with not using complicate
 * [HTML](https://en.wikipedia.org/wiki/HTML)
 * [CSS](https://en.wikipedia.org/wiki/Cascading_Style_Sheets)
 
-[Back to Top](#table-of-contents)
-
 <a></a>
 ### **Libraries and Frameworks**
 
 * [Font Awesome](https://fontawesome.com/)
 * [Bootstrap](https://getbootstrap.com/)
 * [Google Fonts](https://fonts.google.com/)
-
-[Back to Top](#table-of-contents)
 
 <a></a>
 ### **Tools**
@@ -266,9 +260,9 @@ Generally I was about to write a simple and clear code with not using complicate
 ### Navigation bar
 
 * **Plan**    
-I want to include a navigation bar which will be fixed on top, including the title on the left side and the menu options on the right.
+I wanted to include a navigation bar which will be fixed on top, including the title on the left side and the menu options on the right.
 Whenever clicked on one of the navigation links, it should take the user to the appropriate part of the page.
-To be more handy for mobile and for tablet the menu options groups together into a droppdown menu.
+To be more handy for mobile and for tablet the menu options group together into a droppdown menu.
 
 * **Implementation**   
 I used Bootstrap to implement the navigation bar. This helps to give an overall structure and lay out to the navbar. 
@@ -402,6 +396,9 @@ I have used the following websites to gather ideas and information for the overa
 
 * [Design your way](https://www.designyourway.net/blog/)
 * [Depositphotos](https://hu.depositphotos.com/)
+* [HSE](https://www.hse.ie/eng/)
+* [Gov.ie](https://www.gov.ie/en/)
+* [WHO](https://www.who.int/)
 
 [Back to Top](#table-of-contents)
 
