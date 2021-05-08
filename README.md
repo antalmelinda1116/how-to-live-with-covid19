@@ -347,7 +347,29 @@ It took me a while to figure out that I was using the wrong pseudo class for thi
 * **Verdict**    
 Bug was resolved and form now works as planned. 
 
+#### Prevention icons
 
+* **Bug**    
+The 4 icons in prevention issues were not showing in the proper way on mobile devices.
+
+* **Fix**        
+Instead of using a Bootstrap table I decided to go with the simple grid system which is easier to use and does work perfectly.
+
+* **Verdict**    
+Bug was resolved and form now works as planned. 
+
+#### Title
+
+* **Bug**    
+ I gave a long title for my website. On mobile or tablet devices it wasn't showing the whole title.
+
+* **Fix**        
+ After my mentor's explained me how to use clamp property and sent me a few videos to learn about it, I could change the title font size properly.
+
+* **Verdict**    
+Bug was resolved and form now works as planned. 
+
+[Back to Top](#table-of-contents)
 
 <a></a>
 ## **Deployment**
